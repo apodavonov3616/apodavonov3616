@@ -1,6 +1,8 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Alisher Podavonov -->
 
-💡 &nbsp;I enjoy coding and learning new material every day.
+💡 &nbsp;I enjoy coding and learning new material every day.\
+✉️ &nbsp;Feel free to contact me anytime at apodavonov419@gmail.com.
+
 
 ### 🛠 &nbsp;Technologies:
 
