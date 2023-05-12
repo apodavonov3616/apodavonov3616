@@ -7,7 +7,7 @@
 💡 &nbsp;I enjoy coding and learning new material every day.\
 🌱 &nbsp;There is no problem that can't be solved and I want to be part of a team that proves that.\
 🏋🏻‍♂️ &nbsp;My hobbies include powerlifting and learning about nutrition.\
-✉️ &nbsp;Feel free to contact me anytime at alisher.antra@gmail.com.\
+✉️ &nbsp;Feel free to contact me anytime at alisher.antra@gmail.com.
 
 
 <img alt="Coding Cat" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" align="right" height="150px"/>
