@@ -37,7 +37,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alisher-podavonov-80b85a23b/">LinkedIn</a>
+<!-- <a href="https://www.linkedin.com/in/alisher-podavonov-80b85a23b/">LinkedIn</a> -->
 <br/>
 <a href="mailto:apodavonov419@gmail.com">Send me an email!</a>
 </p>
